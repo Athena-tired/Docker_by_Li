@@ -1,0 +1,9 @@
+build/
+**/*.o
+**/*.a
+**/*.d
+results/
+compose.yaml
+.git
+.gitignore
+
